@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tylereg03
+<h1>Hi, I'm Tyler!</h1>
+
 - 👀 I’m interested in rhythm games and soccer
 - 🌱 I’m currently learning Python and Git
 - 💞️ I’m looking to collaborate on a senior design project
