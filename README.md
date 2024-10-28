@@ -1,8 +1,8 @@
 <h1>Hi, I'm Tyler!</h1>
 
-- 👀 I’m interested in rhythm games and soccer
-- 🌱 I’m currently learning Python and Git
-- 💞️ I’m looking to collaborate on a senior design project
+- 👀 I’m interested in rhythm games and soccer.
+- 🌱 I’m currently learning game design principles and GDScript.
+- 💞️ I’m open for work!
 - 📫 You can reach me on discord at t.bon.e
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I know all the world flags!
